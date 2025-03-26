@@ -25,8 +25,7 @@ This tutorial demonstrates how to:
 
 Install the required libraries using:
 ```bash
-Sklearn
-Matplotlib
+pip install tensorflow, matplotlib.pyplot
 ```
 
 ### Running the Notebook
