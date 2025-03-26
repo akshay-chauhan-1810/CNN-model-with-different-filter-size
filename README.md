@@ -31,11 +31,11 @@ pip install tensorflow, matplotlib.pyplot
 ### Running the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshay-chauhan-1810/CNN-with-different-filter-sizes-Tutorial.git
+   git clone https://github.com/akshay-chauhan-1810/CNN-model-with-different-filter-size.git
    ```
 2. Navigate to the `notebooks` folder:
    ```bash
-   cd CNN-mode-with-different-filter-size-Tutorial/notebooks
+   cd CNN-model-with-different-filter-size/notebooks
    ```
 3. Launch Google Colab Notebook:
    ```bash
@@ -43,9 +43,19 @@ pip install tensorflow, matplotlib.pyplot
    ```
 4. Open the `Filter_size_impact_in_CNN.ipynb` file and follow the instructions.
     
-## Dataset Description
+## 📁 Dataset
+This project uses the **[CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)** created by Alex Krizhevsky at the University of Toronto.
 
-We performed the experiments with CIFAR10 dataset. This dataset are small and precise datasets having low computational costs. The results drawn from these datasets can be applied to most of the datasets. So, we use this dataset to avoid the computation cost of more extensive datasets. CIFAR10 is the dataset of the 60000 images of these categories plane, car, bird, cat, deer, dog, frog, horse, and ship. This dataset has 10 output classes.
+We performed the experiments with CIFAR10 dataset. This dataset are small and precise datasets having low computational costs. The results drawn from these datasets can be applied to most of the datasets. So, we use this dataset to avoid the computation cost of more extensive datasets. 
+
+### Dataset Details
+- **60,000 images** (50,000 train + 10,000 test)
+- **32×32 pixel** RGB color images
+- **10 classes**: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
+
+### Terms of Use
+The CIFAR-10 dataset is publicly available for research and educational purposes. For commercial use, please verify the [original terms](https://www.cs.toronto.edu/~kriz/cifar.html).
+
 
 ---
 
@@ -83,9 +93,8 @@ We performed the experiments with CIFAR10 dataset. This dataset are small and pr
 
 ## Accessibility Considerations
 
-1. **Color-blind-friendly visuals**: Feature importance bar charts use distinguishable shades with text annotations.
-2. **Screen reader compatibility**: Key outputs, such as model metrics and feature importance, are described in text.
-3. **Concise formatting**: A structured format enhances readability for diverse audiences.
+1. **Screen reader compatibility**: Key outputs, such as model metrics and feature importance, are described in text.
+2. **Concise formatting**: A structured format enhances readability for diverse audiences.
 ---
 
 ## Conclusion
