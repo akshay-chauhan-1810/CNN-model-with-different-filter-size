@@ -93,9 +93,9 @@ The CIFAR-10 dataset is publicly available for research and educational purposes
 
 ## Accessibility Considerations
 
-1. **Screen reader compatibility**: Key outputs, such as model and feature importance
-2. **Concise formatting**: A structured format enhances readability for diverse audiences.
-3. **Logical code structure and semantic layout
+1. Screen reader compatibility: Key outputs, such as model and feature importance
+2. Concise formatting: A structured format enhances readability for diverse audiences.
+3. Logical code structure and semantic layout
 ---
 
 ## Conclusion
