@@ -18,7 +18,7 @@ This tutorial demonstrates how to:
 
 
 - Libraries:
-  - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - ![Tensorflow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   - [![matplotlib](https://img.shields.io/badge/matplotlib-008080?style=for-the-badge&logoColor=white)](https://matplotlib.org/)
 
 
